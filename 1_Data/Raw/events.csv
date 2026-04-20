@@ -1,0 +1,11 @@
+event_id,event_name,category,event_date
+E01,Football,Team Sport,2026-04-11
+E02,Basketball,Team Sport,2026-04-13
+E03,Cricket,Team Sport,2026-04-12
+E04,Badminton,Individual,2026-04-13
+E05,Table Tennis,Individual,2026-04-12
+E06,Chess,Indoor,2026-04-11
+E07,Athletics,Outdoor,2026-04-13
+E08,Swimming,Water,2026-04-12
+E09,Volleyball,Team Sport,2026-04-12
+E10,Tennis,Individual,2026-04-11
