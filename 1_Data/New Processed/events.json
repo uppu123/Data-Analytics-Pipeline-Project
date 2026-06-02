@@ -1,0 +1,62 @@
+[
+    {
+        "event_id": "E01",
+        "event_name": "Football",
+        "category": "Team Sport",
+        "event_date": "2026-04-11"
+    },
+    {
+        "event_id": "E02",
+        "event_name": "Basketball",
+        "category": "Team Sport",
+        "event_date": "2026-04-13"
+    },
+    {
+        "event_id": "E03",
+        "event_name": "Cricket",
+        "category": "Team Sport",
+        "event_date": "2026-04-12"
+    },
+    {
+        "event_id": "E04",
+        "event_name": "Badminton",
+        "category": "Individual",
+        "event_date": "2026-04-13"
+    },
+    {
+        "event_id": "E05",
+        "event_name": "Table Tennis",
+        "category": "Individual",
+        "event_date": "2026-04-12"
+    },
+    {
+        "event_id": "E06",
+        "event_name": "Chess",
+        "category": "Indoor",
+        "event_date": "2026-04-11"
+    },
+    {
+        "event_id": "E07",
+        "event_name": "Athletics",
+        "category": "Outdoor",
+        "event_date": "2026-04-13"
+    },
+    {
+        "event_id": "E08",
+        "event_name": "Swimming",
+        "category": "Water",
+        "event_date": "2026-04-12"
+    },
+    {
+        "event_id": "E09",
+        "event_name": "Volleyball",
+        "category": "Team Sport",
+        "event_date": "2026-04-12"
+    },
+    {
+        "event_id": "E10",
+        "event_name": "Tennis",
+        "category": "Individual",
+        "event_date": "2026-04-11"
+    }
+]
