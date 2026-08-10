@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-![Project Banner](dashboard.png)
+![Project Banner](Dashboard/dashboard.png)
 
 ## 📌 Overview
 This project implements an end-to-end serverless data engineering pipeline on AWS to process, transform, and analyze event management data. The system ingests raw CSV files, performs ETL operations, and delivers actionable insights through interactive dashboards.
